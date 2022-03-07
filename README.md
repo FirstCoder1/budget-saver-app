@@ -34,15 +34,6 @@ To run the website locally:
 To run the tests:
   - Run `rspec spec`.
 
-# Authors 👤
-**Robert Baiesita**
-  - Github : [@ReshyResh](https://github.com/ReshyResh/)
-  - LinkedIn: [Robert Baiesita](https://www.linkedin.com/in/reshyresh/)
-
-
-# 🤝 Contributing
-
-Feel free to check the [issues page](https://github.com/ReshyResh/Budget-app/issues/).
 
 # Show your support
 
